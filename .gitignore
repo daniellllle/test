@@ -1,4 +1,4 @@
-*
-!*.*
-!*/
+* //ignore everything
+!*.* //dont ignore extentions
+!*/ //dont ignore dirs
 images/
